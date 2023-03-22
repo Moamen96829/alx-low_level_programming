@@ -7,7 +7,7 @@
 * Return: always 0 (Success)
 */
 
-it main(void)
+int main(void)
 {
 	char str[] = "_putchar";
 	int ch;
